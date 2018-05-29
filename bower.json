@@ -1,0 +1,27 @@
+{
+  "name": "LUI-3_messages",
+  "homepage": "https://github.com/LUI-3/labels",
+  "authors": [
+    "wufiii@gmail.com"
+  ],
+  "description": "Responsive front-end website framework - Labels component",
+  "main": "less/labels.router.less",
+  "keywords": [
+    "responsive",
+    "front-end",
+    "framework",
+    "website",
+    "web"
+  ],
+  "dependencies": {
+    "LUI-3_base": "~3.2.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
